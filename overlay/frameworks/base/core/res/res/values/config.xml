@@ -467,6 +467,9 @@
 
     <!-- If face auth sends the user directly to home/last open app, or stays on keyguard -->
     <bool name="config_faceAuthDismissesKeyguard">false</bool>
-    
+
+    <!-- Enable dual LTE capability support-->
+    <bool name="config_dual_LTE_capability">true</bool>
+
 </resources>
 
