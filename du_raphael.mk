@@ -22,6 +22,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Official
 DU_BUILD_TYPE := OFFICIAL
 EXTRA_FOD_ANIMATIONS := true
+USE_GAPPS := true
 
 # Inherit from custom vendor
 $(call inherit-product, vendor/ANXCamera/config.mk)
