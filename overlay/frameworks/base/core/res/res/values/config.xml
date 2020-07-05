@@ -667,6 +667,9 @@
         <item>264</item>
         <item>265</item>
     </integer-array>
+	
+	<!-- Indicates that connected MAC randomization is supported on this device -->
+    <bool translatable="false" name="config_wifi_connected_mac_randomization_supported">true</bool>
     
 </resources>
 
