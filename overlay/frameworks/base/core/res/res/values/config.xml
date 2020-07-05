@@ -668,8 +668,11 @@
         <item>265</item>
     </integer-array>
 	
-	<!-- Indicates that connected MAC randomization is supported on this device -->
+    <!-- Indicates that connected MAC randomization is supported on this device -->
     <bool translatable="false" name="config_wifi_connected_mac_randomization_supported">true</bool>
+	
+    <!-- If this is true, the screen will fade off. -->
+    <bool name="config_animateScreenLights">false</bool>
     
 </resources>
 
