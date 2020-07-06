@@ -693,6 +693,9 @@
 	
     <!-- If this is true, the screen will fade off. -->
     <bool name="config_animateScreenLights">false</bool>
+
+    <!-- Unify back gesture vibration with system wide haptics -->
+    <bool name="config_vibrateOnIconAnimation">true</bool>
     
 </resources>
 
